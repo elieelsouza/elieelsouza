@@ -1,7 +1,7 @@
 ##Olá! Eu sou o ELiel de Souza ∴
 
 - 🔭 Trabalho atualmente com suporte técnico voltado para negócios verejistas
-- 🌱 Estudando Python / Flask e outras cositas 
+- 🌱 Estudando Java / Flask(Python) e outras cositas 
 - 🌽 Nordestino arretado
 - ☕ Café, muito cafeeé!
 - 😄 Pronouns: ele/dele
