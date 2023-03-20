@@ -1,7 +1,7 @@
-##Olá! Eu sou o ELiel de Souza ∴
+##Olá! Eu sou o Eliel de Souza ∴
 
-- 🔭 Trabalho atualmente com suporte técnico voltado para negócios verejistas
-- 🌱 Estudando Java / Flask(Python) e outras cositas 
+- 🔭 Trabalho atualmente como Programador de Sistemas para a SEFAZ-Sergipe
+- 🌱 Estudando Java com Spring / Flask(Python) e outras cositas 
 - 🌽 Nordestino arretado
 - ☕ Café, muito cafeeé!
 - 😄 Pronouns: ele/dele
@@ -13,11 +13,12 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieelsouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img algin="center" alt="Eliel-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img algin="center" alt="Eliel-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img algin="center" alt="Eliel-Linux" heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img algin="center" alt="Eliel-java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img algin="center" alt="Eliel-spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img algin="center" alt="Eliel-oracle" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img algin="center" alt="Eliel-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img algin="center" alt="Eliel-danjo" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /> 
+  <img algin="center" alt="Eliel-flask" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> 
+  <img algin="center" alt="Eliel-react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div>
 
   ##
