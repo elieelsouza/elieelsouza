@@ -7,11 +7,11 @@
 - 😄 Pronouns: ele/dele
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/elieelsouza">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elieelsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elieelsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img algin="center" alt="Eliel-java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img algin="center" alt="Eliel-spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
