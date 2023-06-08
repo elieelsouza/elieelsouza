@@ -1,7 +1,7 @@
 ##Olá! Eu sou o Eliel de Souza ∴
 
 - 🔭 Trabalho atualmente como Programador de Sistemas para a SEFAZ-Sergipe
-- 🌱 Estudando Java com Spring / Flask(Python) e outras cositas 
+- 🌱 Estudando atualmente: Java com Spring / PL/SQL / React Native e outras cositas 
 - 🌽 Nordestino arretado
 - ☕ Café, muito cafeeé!
 - 😄 Pronouns: ele/dele
