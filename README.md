@@ -1,4 +1,4 @@
-##Olá! Eu sou o Eliel de Souza ∴
+##Olá! Eu sou o Eliel ∴
 
 - 🔭 Trabalho atualmente como Programador de Sistemas para a SEFAZ-Sergipe
 - 🌱 Estudando atualmente: Java com Spring / PL/SQL / React Native e outras cositas 
